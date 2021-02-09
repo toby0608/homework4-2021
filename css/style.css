@@ -53,7 +53,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-style: wavy;
 }
 
@@ -98,7 +98,7 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-  background-color: rgba(348, 88, 26, 0.25);
+  background-color: rgb(126, 8, 32, 0.25);
 }
 
 
